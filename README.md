@@ -7,3 +7,4 @@ HILDIF library (InterNLP 2021 Worshop)
 * faiss-1.5.3
 * TextAugment-1.3.4
 * contexttimer-0.3.3
+* fast-influence-functions from https://github.com/salesforce/fast-influence-functions
